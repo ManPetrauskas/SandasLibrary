@@ -23,8 +23,8 @@ Reikalingi Bibliotekos metodai. @param - metodo parametras. @return - ką metoda
     @return Knygos kopijų sąrašas pagal gautą tekstą (ir "Pasiekiamos" ir "Paimtos"). Viena knygos
 kopija turi būti atvaizduojama tik vieną kartą.
  Paieška turi palaikyti:
- - Tikslią paiešką pagal autorių arba pavadinimą.
- - Rikiavimą pagal datą. Jeigu yra dvi vienodos knygos tik su skirtingais publikavimo metais.
+    - Tikslią paiešką pagal autorių arba pavadinimą.
+    - Rikiavimą pagal datą. Jeigu yra dvi vienodos knygos tik su skirtingais publikavimo metais.
 Naujausia knygos kopija turi būti atvaizduojama pirmiau """
 
 Gaunate labai daug bonus taškų už unit testus.
